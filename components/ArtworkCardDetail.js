@@ -36,7 +36,7 @@ export default function Artwork(props) {
     return (
         <>
             <div>
-                {error ? <Error statusCode={404} /> :
+                {error ? <div>Error 404: Artwork not found</div> :
                     <Card>
                         {data.primaryImage &&
                             <Card.Img variant="top" src={data.primaryImage} />
