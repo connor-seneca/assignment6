@@ -6,7 +6,7 @@
 * 
 *  Name: Connor Squires Student ID: 055199137 Date: 2023-07-31
 *
-*  Vercel App (Deployed) Link: https://assignment6-nl42sgrok-connor-seneca.vercel.app/
+*  Vercel App (Deployed) Link: https://assignment6-zeta.vercel.app/
 *
 ********************************************************************************/ 
 import {Row, Col} from "react-bootstrap"
